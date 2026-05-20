@@ -1,2 +1,2 @@
 # Portfolio-SA
-Portfolio de Samuel Augusto
+Portfolio profissional de Samuel Augusto mostrando sua trajetoria, projetos, sobre mim e contatos.
